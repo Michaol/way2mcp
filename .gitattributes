@@ -1,0 +1,12 @@
+# Handle line endings automatically for text files
+# and force LF on checkin.
+* text=auto eol=lf
+
+# Explicitly declare files that should always have LF
+*.ts text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yml text eol=lf
+.prettierrc text eol=lf
+.gitignore text eol=lf
