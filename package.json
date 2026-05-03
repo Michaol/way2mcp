@@ -1,6 +1,6 @@
 {
   "name": "way2mcp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "MCP transport bridge — convert between stdio and Streamable HTTP",
   "keywords": [
     "mcp",
